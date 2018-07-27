@@ -1,4 +1,4 @@
 # Address-Bloc
-A Ruby address book application.
+AddressBloc is an address book application.
 ## Tech Details
 Built with Ruby.
